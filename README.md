@@ -1,8 +1,8 @@
 ---
 title: Predictive Maintenance
 emoji: 🦀
-colorFrom: pink
-colorTo: yellow
+colorFrom: 
+colorTo: 
 sdk: streamlit
 sdk_version: 1.31.1
 app_file: app.py
