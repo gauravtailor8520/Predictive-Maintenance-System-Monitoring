@@ -1,8 +1,8 @@
 ---
 title: Predictive Maintenance
 emoji: 🦀
-colorFrom: pink
-colorTo: yellow
+colorFrom: 
+colorTo: 
 sdk: streamlit
 sdk_version: 1.31.1
 app_file: app.py
@@ -23,7 +23,7 @@ This design doc outlines the development of a web application for predictive mai
 - Identifies the type of equipment failure in the event of a failure, based on the same process parameters.
 
 
-https://github.com/praj2408/Predictive-Maintenance-System-Monitoring/assets/70437673/863a61cf-14bc-43aa-937e-823edcb4d1b2
+[https://github.com/praj2408/Predictive-Maintenance-System-Monitoring/assets/70437673/863a61cf-14bc-43aa-937e-823edcb4d1b2](https://github.com/user-attachments/assets/87fb60a3-43e6-4461-bad2-d56d14a1393a)
 
 
 ## 2. Motivation
