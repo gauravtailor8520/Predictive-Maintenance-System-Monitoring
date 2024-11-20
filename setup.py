@@ -17,8 +17,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='Predictive_Maintenance',
     version='0.0.1',
-    author='Prajwal Krishna',
-    author_email='prajwalgbdr03@gmail.com',
+    author='Gaurav Tailor',
+    author_email='gauravtailor43@gmail.com',
     #install_requires=["scikit-learn","pandas","numpy"],
     packages=find_packages()
 )
