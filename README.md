@@ -116,7 +116,7 @@ The pipeline follows the following sequence of steps:
 
 `Docker Container`: The pipeline utilizes Docker containers to package the application code, model artifacts, and both the frontend and backend components. This containerization ensures consistent deployment across different environments and simplifies the deployment process.
 
-`Huggingface Space`: The Docker container, along with the required dependencies, is deployed on a Huggingface Space. Huggingface provides a cloud hosting solution that allows for scalability, reliability, and easy management of the web application.
+`Space`: The Docker container, along with the required dependencies, is deployed on a Huggingface Space. Huggingface provides a cloud hosting solution that allows for scalability, reliability, and easy management of the web application.
 
 `Web App`: The web application is accessible via a web browser, providing a user-friendly interface for interacting with the prediction functionality. Users can input new data and obtain predictions from the deployed model.
 
