@@ -6,7 +6,7 @@
 
 ---
 
-This design doc outlines the development of a web application for predictive maintenance using a synthetic dataset. The application will utilize machine learning models that:
+This design doc outlines the development of a web application for predictive maintenance using a AI4I 2020 Predictive Maintenance Dataset. The application will utilize machine learning models that:
 
 - Evaluates whether the equipment will fail or not based on process parameters, including air and process temperatures, rotational speed, torque, and tool wear.
 
